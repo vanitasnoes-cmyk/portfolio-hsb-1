@@ -51,7 +51,7 @@ export function GroupDeliverablesMedia({ variant = 'full' }: GroupDeliverablesMe
 
       {variant === 'full' && (
         <p className="text-xs text-slate-600 dark:text-slate-400 font-semibold leading-relaxed text-justify">
-          Video thuyết trình hoàn thiện của nhóm <strong className="text-slate-900 dark:text-slate-200">VNU1001_E252023</strong>.
+          Video thuyết trình hoàn thiện của nhóm <strong className="text-slate-900 dark:text-slate-200">VNU1001-E252036</strong>.
           Kịch bản, slide và tài liệu gốc được lưu đồng bộ trên{' '}
           <a
             href={GROUP_DRIVE_FOLDER_URL}

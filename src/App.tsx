@@ -457,7 +457,7 @@ function App() {
               Đào Thị Khánh Huyền
             </span>
             <span className="text-[10px] text-[#ea580c]/60 dark:text-orange-300/70 font-semibold block mt-1 pl-0.5">
-              Sinh viên lớp VNU1001_E252023 • VNU-HSB
+              Sinh viên lớp VNU1001-E252036 • VNU-HSB
             </span>
           </div>
 
@@ -664,7 +664,7 @@ function App() {
             </h1>
 
             <p className="text-[#fed7aa] text-xs sm:text-sm md:text-base mt-3 max-w-2xl mx-auto font-semibold drop-shadow-sm">
-              Sinh viên lớp VNU1001_E252023 • VNU Hanoi School of Business and Management
+              Sinh viên lớp VNU1001-E252036 • VNU Hanoi School of Business and Management
             </p>
 
             {/* Highlight Accent Line below title */}
@@ -725,7 +725,7 @@ function App() {
                   Chuyên ngành
                 </div>
                 <p className="text-[11px] text-slate-600 dark:text-slate-300 leading-relaxed font-semibold">
-                  <strong className="text-[#ea580c] dark:text-white">Đào Thị Khánh Huyền</strong>, sinh viên thuộc khối ngành Công nghệ thông tin và Hệ thống thông tin (Lớp VNU1001_E252023), Trường Quản trị và Kinh doanh, Đại học Quốc gia Hà Nội (VNU-HSB).
+                  <strong className="text-[#ea580c] dark:text-white">Đào Thị Khánh Huyền</strong>, sinh viên thuộc khối ngành Marketing và Truyền thông , hệ thống thông tin (Lớp VNU1001-E252036). Trường Quản trị và Kinh doanh, Đại học Quốc gia Hà Nội (VNU-HSB).
                 </p>
               </div>
 
@@ -1211,10 +1211,10 @@ function App() {
               Đào Thị Khánh Huyền • Nhà Quản trị Số Tương Lai
             </p>
             <p className="text-xs text-[#fed7aa] font-semibold max-w-xl mx-auto font-sans">
-              Sinh viên lớp VNU1001_E252023 • Trường Quản trị và Kinh doanh, Đại học Quốc gia Hà Nội
+              Sinh viên lớp VNU1001-E252036 • Trường Quản trị và Kinh doanh, Đại học Quốc gia Hà Nội
             </p>
             <p className="text-xs text-white/60 max-w-2xl mx-auto font-medium">
-              VNU Gmail: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=25080652@vnu.edu.vn" target="_blank" rel="noopener noreferrer" className="text-[#fed7aa] font-bold hover:underline">25080652@vnu.edu.vn</a> &nbsp;|&nbsp; Địa chỉ học tập: VNU-HSB, Mỹ Đình, Nam Từ Liêm, Hà Nội
+              VNU Gmail: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=25080652@vnu.edu.vn" target="_blank" rel="noopener noreferrer" className="text-[#fed7aa] font-bold hover:underline">25080652@vnu.edu.vn</a> &nbsp;|&nbsp; Địa chỉ học tập: VNU-HSB, Xuân Thủy, Cầu Giấy, Hà Nội
             </p>
             <div className="pt-6 text-[10px] text-white/40 border-t border-white/10 max-w-xs mx-auto font-bold font-sans">
               © 2026 Đào Thị Khánh Huyền. Deep Blue Portfolio Edition.

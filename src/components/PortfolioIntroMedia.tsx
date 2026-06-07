@@ -9,12 +9,12 @@ import {
 
 const PROFILE = {
   name: 'Đào Thị Khánh Huyền',
-  program: 'Sinh viên lớp VNU1001_E252023',
+  program: 'Sinh viên lớp VNU1001-E252036',
   school: 'Trường Quản trị và Kinh doanh (HSB) — ĐHQGHN',
   course: 'Học phần VNU1001 · Năng lực số',
   studentId: '25080652',
   email: '25080652@vnu.edu.vn',
-  location: 'VNU-HSB, Mỹ Đình, Nam Từ Liêm, Hà Nội',
+  location: 'VNU-HSB, Xuân Thủy, Cầu Giấy, Hà Nội',
 } as const;
 
 export function PortfolioIntroMedia() {
