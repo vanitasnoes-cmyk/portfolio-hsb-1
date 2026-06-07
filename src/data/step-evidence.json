@@ -25,14 +25,21 @@
     "/images/steps/bt3/05.png"
   ],
   "bt4": [
+    null,
     "/images/steps/bt4/01.png",
-    "/images/steps/bt4/02.png",
-    "/images/steps/bt4/03.png",
-    "/images/steps/bt4/04.png",
-    "/images/steps/bt4/05.png",
-    "/images/steps/bt4/06.png",
-    "/images/steps/bt4/07.png",
-    "/images/steps/bt4/08.png"
+    [
+      "/images/steps/bt4/02.png",
+      "/images/steps/bt4/03.png",
+      "/images/steps/bt4/04.png"
+    ],
+    [
+      "/images/steps/bt4/05.png",
+      "/images/steps/bt4/06.png"
+    ],
+    [
+      "/images/steps/bt4/07.png",
+      "/images/steps/bt4/08.png"
+    ]
   ],
   "bt5": [
     "/images/steps/bt5/01.jpeg",

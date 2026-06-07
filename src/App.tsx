@@ -192,10 +192,25 @@ function App() {
       fileName: 'Bai_4_DaoThiKhanhHuyen.pdf',
       fileType: 'pdf',
       skills: ['Kanban Trello', 'Google Workspace', 'Cộng tác đám mây', 'Version Control'],
-      images: ['/images/steps/bt4/01.png', '/images/steps/bt4/02.png'],
+      images: [
+        '/images/steps/bt4/01.png',
+        '/images/steps/bt4/02.png',
+        '/images/steps/bt4/03.png',
+        '/images/steps/bt4/04.png',
+        '/images/steps/bt4/05.png',
+        '/images/steps/bt4/06.png',
+        '/images/steps/bt4/07.png',
+        '/images/steps/bt4/08.png'
+      ],
       imageDescriptions: [
-        'Ảnh 1: Quản trị tiến độ công việc nhóm trực quan trên bảng Kanban Trello.',
-        'Ảnh 2: Cấu trúc thư mục đa cấp và quy tắc đặt tên file đồng nhất trên Google Drive.'
+        'Ảnh 1: Cấu hình bảng Kanban quản lý tiến độ trên Trello.',
+        'Ảnh 2: Tối ưu hồ sơ cá nhân và sử dụng nhãn dán màu sắc trên Trello.',
+        'Ảnh 3: Cập nhật tiến độ nhiệm vụ Use Case và đặc tả yêu cầu.',
+        'Ảnh 4: Tương tác trao đổi và hỗ trợ thành viên trên nhóm giao tiếp.',
+        'Ảnh 5: Tổ chức cấu trúc thư mục Google Drive đa tầng lưu trữ tài liệu nhóm.',
+        'Ảnh 6: Quy tắc đặt tên file đồng nhất và cơ chế phân quyền truy cập.',
+        'Ảnh 7: Giải quyết xung đột chỉnh sửa trên Docs bằng Suggesting/Comment.',
+        'Ảnh 8: Theo dõi luồng phụ thuộc công việc bằng checklist và liên kết thẻ Trello.'
       ],
       detailedSummary: 'Bài tập 4 giúp em nâng cao kỹ năng làm việc nhóm trực tuyến. Em đã học cách tổ chức tài nguyên khoa học trên Drive, điều phối tác vụ qua Trello và giải quyết các xung đột dữ liệu thực tế bằng các công cụ cộng tác thời gian thực.'
     },
@@ -211,10 +226,21 @@ function App() {
       fileName: 'Bai_5_DaoThiKhanhHuyen.pdf',
       fileType: 'pdf',
       skills: ['Canva AI', 'Google Gemini', 'Generative Art', 'Truyền thông số'],
-      images: ['/images/steps/bt5/01.jpeg', '/images/steps/bt5/02.jpeg'],
+      images: [
+        '/images/steps/bt5/01.jpeg',
+        '/images/steps/bt5/02.jpeg',
+        '/images/steps/bt5/03.jpeg',
+        '/images/steps/bt5/04.jpeg',
+        '/images/steps/bt5/05.jpeg',
+        '/images/steps/bt5/06.jpeg'
+      ],
       imageDescriptions: [
-        'Ảnh 1: Bản thiết kế Infographic Sống Xanh tối ưu hóa bố cục dọc trên Canva.',
-        'Ảnh 2: Hình ảnh nghệ thuật không gian làm việc tương lai do AI Nano Banana tạo lập.'
+        'Ảnh 1: Ý tưởng và dàn bài chiến dịch Sống Xanh do Google Gemini phác thảo.',
+        'Ảnh 2: Soạn thảo nội dung blog chi tiết kết hợp rà soát số liệu thực tế.',
+        'Ảnh 3: Tác phẩm nghệ thuật không gian làm việc tương lai tạo từ AI Nano Banana.',
+        'Ảnh 4: Thiết lập kích thước và bố cục dọc truyền thông trên Canva.',
+        'Ảnh 5: Thiết kế và phối màu tương phản xanh - trắng cho infographic.',
+        'Ảnh 6: Lồng ghép địa chỉ thu gom thực tế và xuất bản ấn phẩm truyền thông.'
       ],
       detailedSummary: 'Bài tập 5 giúp em làm chủ quy trình sáng tạo nội dung số. Sự phối hợp giữa AI tạo chữ (Gemini), tạo ảnh (Nano Banana) và công cụ thiết kế (Canva) đã giúp em tạo ra chiến dịch truyền thông Sống Xanh trực quan và có tính tác động cao.'
     },
