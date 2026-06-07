@@ -227,7 +227,7 @@ function App() {
       fileType: 'pdf',
       skills: ['Canva AI', 'Google Gemini', 'Generative Art', 'Truyền thông số'],
       images: [
-        '/images/steps/bt5/01.jpeg',
+        '/images/steps/bt5/01.png',
         '/images/steps/bt5/02.jpeg',
         '/images/steps/bt5/03.jpeg',
         '/images/steps/bt5/04.jpeg',
