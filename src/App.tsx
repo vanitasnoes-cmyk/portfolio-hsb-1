@@ -1094,7 +1094,13 @@ function App() {
                     <div className="no-print flex items-center gap-3 flex-wrap sm:flex-nowrap">
                       <button
                         type="button"
-                        onClick={() => window.print()}
+                        onClick={() => {
+                          if (portfolioProjects[activeTab].fileUrl) {
+                            window.open(portfolioProjects[activeTab].fileUrl, '_blank');
+                          } else {
+                            window.print();
+                          }
+                        }}
                         className="outline-button text-[#ea580c] text-xs sm:text-sm font-bold px-5 py-3.5 rounded-xl transition-all inline-flex items-center gap-2 cursor-pointer"
                       >
                         <Printer className="w-4.5 h-4.5 text-[#f97316] shrink-0" />
